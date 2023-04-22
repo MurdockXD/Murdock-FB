@@ -1,6 +1,8 @@
 # Murdock-FB
 <h1 align="center">Wellcome Anak Murid😁</h1>
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Selamat+Bersenang-senang....!+)
+
 
 
 
